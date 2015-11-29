@@ -1,0 +1,16 @@
+{
+  "name": "eps",
+  "version": "1.0.0",
+  "description": "this is a mini express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mango",
+  "license": "ISC",
+  "dependencies": {
+    "finalhandler": "^0.4.0",
+    "parseurl": "^1.3.0",
+    "utils-merge": "^1.0.0"
+  }
+}
